@@ -6,11 +6,7 @@ This project is a simple web application for a hairdresser, built using Node.js,
 
 - [Description](#description)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
